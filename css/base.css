@@ -15,8 +15,8 @@ body::before {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: #f8f8f8;
-    background: url(../img/grid.png) repeat-x;
+    background-color: #453939;
+    background: url(../img/Apex Predator.png) repeat-x;
     will-change: transform;
     z-index: -1;
 }
@@ -49,13 +49,13 @@ body > .container {
 }
 
 h1 {
-    color: #444;
+    color: #994040;
     font-weight: 400;
     font-size: 42px;
 }
 
 h2, h3, h4, h5, h6 {
-    color: #444;
+    color: #994040;
     font-weight: 300;
 }
 
