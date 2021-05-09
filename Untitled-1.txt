@@ -1,0 +1,8 @@
+<!DOCTYPE html> <head>Michael Hubener Site</head>
+<Title>HTML IS WACKY DOOD</Title>
+<link rel="stylesheet" type="text/css" href="style.css"> 
+<body><p><img src="225px-MWSS-471_insignia.jpg"><h1>The Marine Corps taught me how to:</h1>
+</p><ul><li>Shoot things</li><li>sleep in any enviorment </li><li>definitely not coding</li></ul>
+I have never touched a text editor in my entire life, but I am enjoying what ever it is that I am doing here 
+</body>
+<footer>Thank you for coming to my ted talk :)</footer>
