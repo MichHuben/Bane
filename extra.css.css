@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', Verdana, sans-serif;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0px;
+}
+
+h1 {
+    background-color: blue;
+}
+
+ul {
+    background-color: green;
+}
+
+body {
+    background-color: red;
+}
+
+Footer {
+    background-color: goldenrod;
+}
